@@ -1,0 +1,14 @@
+IEBS
+----------------------------
+Proyecto fin de Postgrado 
+Instructivo
+Alumno: Gabriel Rey
+
+1. El código del proyecto global se encuentra en el repositorio: https://github.com/gabrielfernandorey/IEBS
+2. El notebook se identifica como 01_IEBS_Global.ipynb
+2. Para correr el notebook en google colab debe utilizarse el icono de acceso "Open in Colab"
+3. El repositorio se clona temporalmente en el espacio de trabajo de google colab
+
+
+
+
