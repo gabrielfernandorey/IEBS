@@ -5,5 +5,4 @@ Proyecto Fin de  Postgrado
   - Contiene los archivos de audio originales en formato WAV
   - Contiene los espectrogramas procesado por este notebook
   - Contiene el modelo generado
-  - Contiene el documento Global Project en formato pdf
   
